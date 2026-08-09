@@ -1,0 +1,7 @@
+ascii_player
+libs/
+*.dylib
+*.o
+vid.mp4
+.DS_Store
+cmake-build-*/
