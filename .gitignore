@@ -5,3 +5,4 @@ libs/
 vid.mp4
 .DS_Store
 cmake-build-*/
+src/vcpkg/
