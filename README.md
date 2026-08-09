@@ -62,4 +62,4 @@ constexpr double TARGET_FPS = 60.0;
 
 ## License
 
-_(add your license here, e.g. MIT)_
+MIT
