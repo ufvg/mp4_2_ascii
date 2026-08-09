@@ -6,3 +6,4 @@ vid.mp4
 .DS_Store
 cmake-build-*/
 src/vcpkg/
+constants.h
